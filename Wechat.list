@@ -72,6 +72,6 @@ DOMAIN,vweixinf.tc.qq.com
 DOMAIN,c6.y.qq.com
 DOMAIN,weixin.qq.com
 DOMAIN,wx.qlogo.cn
-DOMAIN,wxapp.tc.qq.com
+DOMAIN,wxapp.tc.qq.com,extended-matching
 DOMAIN,emoji.qpic.cn
 DOMAIN,resstatic.servicewechat.com
