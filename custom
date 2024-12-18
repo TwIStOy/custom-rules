@@ -1,2 +1,2 @@
-RULE-SET, https://raw.githubusercontent.com/TwIStOy/custom-rules/master/Dolingo.list, DIRECT
-RULE-SET, https://raw.githubusercontent.com/TwIStOy/custom-rules/master/Tailscale.list, DIRECT
+RULE-SET,https://raw.githubusercontent.com/TwIStOy/custom-rules/master/Dolingo.list,DIRECT,extended-matching
+RULE-SET,https://raw.githubusercontent.com/TwIStOy/custom-rules/master/Tailscale.list,DIRECT,extended-matching
