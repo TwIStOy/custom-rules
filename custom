@@ -1,3 +1,3 @@
 RULE-SET,https://raw.githubusercontent.com/TwIStOy/custom-rules/master/Dolingo.list,DIRECT,extended-matching
 RULE-SET,https://raw.githubusercontent.com/TwIStOy/custom-rules/master/Tailscale.list,DIRECT,extended-matching
-RULE-SET,https://raw.githubusercontent.com/TwIStOy/custom-rules/refs/heads/master/AdBlock.list,REJECT,extended-matching
+RULE-SET,https://raw.githubusercontent.com/TwIStOy/custom-rules/master/AdBlock.list,REJECT,extended-matching
