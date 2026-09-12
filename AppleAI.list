@@ -7,7 +7,7 @@ DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN,api-siri-prod.icloud.com
 DOMAIN,api-siri-prod.apple.com
 # Apple AI relay / bootstrap
-DOMAIN,mask-api.icloud
+DOMAIN,mask-api.icloud.com
 DOMAIN,mask-api.fe2.apple-dns.net
 DOMAIN-KEYWORD,apple-carry-relay
 # Apple Region Determination
